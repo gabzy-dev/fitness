@@ -77,6 +77,8 @@
 
     .program-categories{
         flex-direction: column;
+        width: fit-content;
+
     }
 
 }
